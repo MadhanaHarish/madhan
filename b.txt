@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 hi...da mach
 =======
-hi...macha were r u
+hi...macha were r 
 >>>>>>> b2
